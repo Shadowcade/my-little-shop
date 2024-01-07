@@ -84,7 +84,7 @@ prices = [
   },
   {
     #dining table
-      'item_price': 400,
+      'item_price': 500,
   },
   {
     #toothpaste
