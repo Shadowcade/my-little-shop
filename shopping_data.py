@@ -64,42 +64,42 @@ data = [
 prices = [
   {
     #milk
-      'item_price': 3,
-  },
-  {
-    #t-shirt
-      'item_price': 15,
-  },
-  {
-    #tv
-      'item_price': 500,
-  },
-  {
-    #blender
-      'item_price': 30,
-  },
-  {
-    #magazine
-      'item_price': 5,
-  },
-  {
-    #dining table
-      'item_price': 400,
-  },
-  {
-    #toothpaste
-      'item_price': 3,
-  },
-  {
-    #picture frame
       'item_price': 10,
   },
   {
+    #t-shirt
+      'item_price': 30,
+  },
+  {
+    #tv
+      'item_price': 400,
+  },
+  {
+    #blender
+      'item_price': 34,
+  },
+  {
+    #magazine
+      'item_price': 2,
+  },
+  {
+    #dining table
+      'item_price': 130,
+  },
+  {
+    #toothpaste
+      'item_price': 34,
+  },
+  {
+    #picture frame
+      'item_price': 12,
+  },
+  {
     #running shoes
-      'item_price': 50,
+      'item_price': 34,
   },
   {
     #sticky notes
-      'item_price': 4,
+      'item_price': 2,
   }
 ]
