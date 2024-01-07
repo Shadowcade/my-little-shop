@@ -6,7 +6,7 @@ logo_1 = """
 \ \_/ / (_| | | |_| |  __/ |  | | (_| | |  | |_ 
  \___/ \__,_|_|\__,_|\___\_|  |_/\__,_|_|   \__|  
 
-      Quality Basics, Priced Just Right!
+             i hate gas prices
 """
 
 list = """
